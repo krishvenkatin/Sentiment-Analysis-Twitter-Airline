@@ -12,9 +12,7 @@ The dataset used for this project is the [Twitter US Airline Sentiment dataset](
 
 
 - **data/**: Contains the dataset used for the analysis.
-- **images/**: Contains images generated during the analysis, such as visualizations and model comparison charts.
 - **notebooks/**: Jupyter Notebook with the entire analysis, including EDA, model training, and evaluation.
-- **src/**: Python scripts used in the project.
 - **README.md**: Project documentation.
 
 ## Instructions
