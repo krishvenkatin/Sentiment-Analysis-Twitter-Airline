@@ -9,7 +9,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/Sentiment-Analysis-Twitter-Airline.git
+    git clone https://github.com/krishvenkatin/Sentiment-Analysis-Twitter-Airline.git
     cd Sentiment-Analysis-Twitter-Airline
     ```
 
