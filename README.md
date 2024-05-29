@@ -1,3 +1,15 @@
+# Sentiment Analysis of Twitter Airline Tweets
+
+## Project Overview
+
+This project performs sentiment analysis on Twitter data related to various airlines. The goal is to classify the sentiment of tweets as positive, neutral, or negative using different machine learning models.
+
+## Dataset
+
+The dataset used for this project is the [Twitter US Airline Sentiment dataset](https://www.kaggle.com/crowdflower/twitter-airline-sentiment). It contains tweets from February 2015 about US airlines and their sentiment labels.
+
+## Project Structure
+
 
 - **data/**: Contains the dataset used for the analysis.
 - **images/**: Contains images generated during the analysis, such as visualizations and model comparison charts.
